@@ -2,7 +2,7 @@
 
 matlab-cloc counts lines of code, blank lines, and comment lines in MATLAB languages. It can be used to evaluate single or multiple m-files.
 
-To use it, downlowd **matlab_cloc.mlapp** and type the name in the prompt
+To use it, download **matlab_cloc.mlapp** and type the name in the prompt
 <pre>
 >> matlab_cloc
 </pre>
